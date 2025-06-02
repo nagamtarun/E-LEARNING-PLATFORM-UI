@@ -14,3 +14,5 @@ MENTOR: NEELA SANTOSH
 
 This project is a front-end User Interface (UI) for an E-Learning Platform, built using HTML, CSS, and JavaScript. It presents a clean and responsive layout to showcase online courses, allowing users to explore and enroll with a simple click. This version is focused on design and user interaction, ideal for integration into a full-stack application later.
 
+
+![Image](https://github.com/user-attachments/assets/8311e0bd-7374-435f-b823-14c3c62c2b53)
